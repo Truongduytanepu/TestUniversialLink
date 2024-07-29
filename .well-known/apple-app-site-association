@@ -3,7 +3,7 @@
         "apps": [],
         "details": [
             {
-                "appID": "T852J6UR43.TanTruong.TestDeepLinkIOSS",
+                "appID": "T852J6UR43.ai.aigirl.aifriend.chatbot.gpt",
                 "paths": [ "*" ]
             }
         ]
